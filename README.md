@@ -5,7 +5,7 @@
 - 2）命令行cd到项目目录
 - 3）命令行执行"sh ~/pathtoyourshellscript [options]"
 
-<font color="red">注：使用前，请根据项目设置修改脚本中对应的值！！！
+*注：使用前，请根据项目设置修改脚本中对应的值！！！*
 
 
 ```sh
